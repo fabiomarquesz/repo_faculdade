@@ -1,0 +1,19 @@
+# Ambientes virtuais
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# Arquivos Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Variáveis de ambiente
+.env
