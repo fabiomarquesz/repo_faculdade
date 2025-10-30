@@ -16,4 +16,5 @@ __pycache__/
 .ipynb_checkpoints
 
 # Variáveis de ambiente
-.env
+.envvenv/
+env/

@@ -1,5 +1,0 @@
-#!/home/fabio-marques/Documentos/Faculdade/Editar_Nome_Matéria/env/bin/python3.11
-
-import pydoc
-if __name__ == '__main__':
-    pydoc.cli()
