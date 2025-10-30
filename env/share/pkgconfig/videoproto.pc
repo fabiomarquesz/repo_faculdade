@@ -1,0 +1,7 @@
+prefix=/home/fabio-marques/Documentos/Faculdade/Editar_Nome_Matéria/env
+includedir=${prefix}/include
+
+Name: VideoProto
+Description: Video extension headers
+Version: 2.3.3
+Cflags: -I${includedir}
